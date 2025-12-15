@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06j1g9",
-  "description": "https://scrimba.com/learn-react-c0e/~07l7/s07fu0nlvc/head",
+  "name": "React-Facts",
+  "description": "A simple React application that displays interesting and essential facts about the React JavaScript library",
   "scripts": {
     "start": "vite",
     "dev": "vite",
